@@ -1,3 +1,3 @@
-# CSS No-np animation
+# CSS No-no animation
 
 check it out: 
