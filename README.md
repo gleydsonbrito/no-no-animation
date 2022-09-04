@@ -81,5 +81,4 @@ buttonLogin.addEventListener("click", function(event) {
     alert(`Login sucessfull - ${user.value}`)
   }
 })
-````
-##script
+```
